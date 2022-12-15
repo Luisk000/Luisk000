@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on [a box confection company on Sao Paulo named Senhor Caixa](https://senhorcaixa.com.br/)
 
-- 🌱 I’m currently learning **mobile development, front-end development and creative writing**
+- 🌱 I’m currently learning **mobile development and front-end development**
 
 - 🎮 Things I enjoy: **Gaming, Music, Fantasy and Sci Fi, Tabletop RPG and learning new technologies**
 
 - 📫 How to reach me **luishenriqueangelini@gmail.com**
 
-- ⚡ Fun fact: **I love some extreme music, like death metal**
+- ⚡ Fun fact: **I enjoy some extreme music, like death metal**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
