@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Luis Henrique</h1>
+<h1 align="center">Hi, I'm Luis Henrique</h1>
 <h3 align="center">I'm a young programming student currently graduating on computing science.</h3>
 
 - 🔭 I’m currently working on [a box confection company on Sao Paulo named Senhor Caixa](https://senhorcaixa.com.br/)
