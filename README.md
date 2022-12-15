@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **luishenriqueangelini@gmail.com**
 
-- ⚡ Fun fact **I love some extreme music, like death metal**
+- ⚡ Fun fact: **I love some extreme music, like death metal**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
