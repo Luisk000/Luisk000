@@ -1,11 +1,10 @@
 <h1 align="center">Hi, I'm Luis Henrique</h1>
-<h3 align="center">I'm a young programming student currently graduating on computing science.</h3>
 
 - 🔭 I’m currently working on [a box confection company on Sao Paulo named Senhor Caixa](https://senhorcaixa.com.br/)
 
-- 🌱 I’m currently learning **mobile development and front-end development**
+- 🌱 I’m currently learning **mobile and web development**
 
-- 🎮 Things I enjoy: **Gaming, Music, Fantasy and Sci Fi, Tabletop RPG and learning new technologies**
+- 🎮 Things I enjoy: **Gaming, Tabletop RPG, Books and technology**
 
 - 📫 How to reach me **luishenriqueangelini@gmail.com**
 
