@@ -6,7 +6,7 @@
 
 - 🎮 Things I enjoy: **Gaming, Tabletop RPG, Books and technology**
 
-- 📫 How to reach me **luishenriqueangelini@gmail.com**
+- 📫 How to reach me: **luishenriqueangelini@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
