@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Luis Henrique</h1>
 
-- 🔭 I’m currently working on [a box confection company on Sao Paulo named Senhor Caixa](https://senhorcaixa.com.br/)
+- 🔭 I’m currently working on [a box confection company in Sao Paulo named Senhor Caixa](https://senhorcaixa.com.br/)
 
 - 🌱 I’m currently learning about **CI/CD** and **Gamemaker**
 
