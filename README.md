@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on [a box confection company on Sao Paulo named Senhor Caixa](https://senhorcaixa.com.br/)
 
-- 🌱 I’m currently learning about **web development**
+- 🌱 I’m currently learning about **CI/CD** and **Gamemaker**
 
 - 🎮 Things I enjoy: **Gaming, Tabletop RPG, Books and technology**
 
